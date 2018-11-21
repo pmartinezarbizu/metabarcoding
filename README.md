@@ -1,2 +1,2 @@
 # metabarcoding
-SGN metabarcodng pipelines and scripts
+SGN metabarcoding pipelines and scripts
